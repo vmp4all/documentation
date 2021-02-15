@@ -1,0 +1,3 @@
+# Sample Software koper instellingen
+
+...
