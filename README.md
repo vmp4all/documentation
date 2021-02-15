@@ -11,3 +11,7 @@
 - Realtime ([NL](docs/realtime_NL.md)/EN)
 - ...
 
+## Software specific settings
+
+Check the [software documentation](docs/software/README.md)
+
